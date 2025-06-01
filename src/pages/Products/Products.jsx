@@ -26,18 +26,18 @@ const UniqueProductsPage = () => {
   }, []);
 
   const products = [
-    'https://images.unsplash.com/photo-1583391733956-6c78276477e5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
-    'https://images.unsplash.com/photo-1594736797933-d0401ba2fe65?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
     'https://images.unsplash.com/photo-1610030469983-98e550d6193c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
-    'https://images.unsplash.com/photo-1583391733981-3c50b9c3f8d9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
-    'https://images.unsplash.com/photo-1506629905057-f39a2edb8fea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    'https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    'https://img.freepik.com/free-vector/elegant-indian-man-culture_24908-80899.jpg?uid=R132334500&ga=GA1.1.78409749.1684004130&semt=ais_hybrid&w=740',
+    'https://img.freepik.com/free-photo/young-man-posing-casually-white-wall_1157-48198.jpg?uid=R132334500&ga=GA1.1.78409749.1684004130&semt=ais_hybrid&w=740',
+    'https://images.othoba.com/images/thumbs/0686924_stylish-premium-punjabi.webp',
     'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
     'https://images.unsplash.com/photo-1469334031218-e382a71b716b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
     'https://images.unsplash.com/photo-1445205170230-053b83016050?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
     'https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
-    'https://images.unsplash.com/photo-1583391733923-86bf1acfc4ca?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
-    'https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
-    'https://images.unsplash.com/photo-1583391733831-0dd73982ae7a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+    'https://mainsailorimagebucket.s3.ap-southeast-1.amazonaws.com/uploads/all/VrWGJ1z0rOiYAP84CRGOVTO41rXvXXIwFrCsQMPr.jpg',
+    'https://images.othoba.com/images/thumbs/0686924_stylish-premium-punjabi.webp',
+    'https://images.othoba.com/images/thumbs/0686924_stylish-premium-punjabi.webp'
   ];
 
   // Responsive grid sizes
